@@ -1,0 +1,6 @@
+[
+	{ "id": 1, "date": "2021-12-21", "title": "Shopping", "amount": -102.45 },
+	{ "id": 2, "date": "2021-12-25", "title": "Cake", "amount": -50.45 },
+	{ "id": 3, "date": "2021-12-28", "title": "Bicycle", "amount": -240.45 },
+	{ "id": 4, "date": "2022-01-01", "title": "Payment", "amount": 1400.45 }
+]
